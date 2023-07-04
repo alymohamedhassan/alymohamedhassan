@@ -14,18 +14,9 @@
     - Postgres, and MongoDB
     - Prisma
 
-  - Machine Learning:
-    - Supervised
-      - Linear Reg.
-      - Logistic Reg.
-      - SVM
-      - KNNs
-    - Unsupervised
-      - Kmeans
+  - Machine Learning
   - Deep Learning
-  - - CNNs
-    - RNNs, LSTMs, GRUs
-    - Transformers
+    CNNs, RNNs, LSTMs, GRUs, Transformers
   - Recommenders
  
 
