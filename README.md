@@ -19,6 +19,9 @@
     CNNs, RNNs, LSTMs, GRUs, Transformers
   - Recommenders
  
+  
+ - 📫 Reach Me on:
+ - Linkedin: <a href="https://linkedin.com/in/alymohamedhassan" target="_blank">@alymohamedhassan</a>
 
 <!--
 **alymohamedhassan/alymohamedhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
