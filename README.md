@@ -13,11 +13,6 @@
     - Redis
     - Postgres, and MongoDB
     - Prisma
-
-  - Machine Learning
-  - Deep Learning
-    CNNs, RNNs, LSTMs, GRUs, Transformers
-  - Recommenders
  
   
  - 📫 Reach Me on:
