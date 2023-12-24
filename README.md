@@ -8,7 +8,7 @@ I'm Aly, a self-taught backend developer.
 - Frameworks: Fast API, Flask, Nestjs, ExpressJs, Spring, Reactjs.
 - Human languages: English, Arabic, A little bit of german.
 - Databases I've worked with: Postgres, SQL Server, MySql, MongoDB, Redis.
-- Other Tech/skills: Terraform, RabbitMQ, Docker, Nginx, 
+- Other Tech / skills: Terraform, RabbitMQ, Docker, Nginx, 
 - OS: Linux (Ubuntu)
 
 ## Things I am learning about
